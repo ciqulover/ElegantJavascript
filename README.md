@@ -1,4 +1,3 @@
-# ElegantJavascript
 ## 个人总结：如何写出优雅Javascript
 ### 不写分号
 **不写分号能显著让代码更加优雅**
